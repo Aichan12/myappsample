@@ -1,2 +1,2 @@
 #myApp
-This is my appasd
+This is my app
